@@ -65,3 +65,7 @@ footer{
     padding: 10px;
     text-align: center;
 }
+
+p{
+    text-align: justify;
+}
